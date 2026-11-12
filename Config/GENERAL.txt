@@ -2,7 +2,7 @@
 #nikki
 CONFIG_PACKAGE_luci-app-nikki=y
 CONFIG_PACKAGE_mihomo=y
-#CONFIG_PACKAGE_luci-app-openclash=y
+CONFIG_PACKAGE_luci-app-openclash=y
 
 #ssr plus
 CONFIG_PACKAGE_luci-app-ssr-plus=n
