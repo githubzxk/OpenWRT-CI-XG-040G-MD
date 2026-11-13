@@ -34,3 +34,7 @@ workflows——自定义CI配置
 Scripts——自定义脚本
 
 Config——自定义配置
+
+## 如要增加包，可参考这个里面的选包页
+
+https://github.com/Loong1996/ImmortalWrt-Airoha/releases#release-XG-040G-MD-ubi-auto-20260927-59
